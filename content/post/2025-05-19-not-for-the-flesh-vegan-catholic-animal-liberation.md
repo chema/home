@@ -24,7 +24,7 @@ All this made the discovery of the small but extant Catholic *Ordo Minimorum*--t
 
 <figure style="float: right; margin-right: 1.1rem; margin-bottom: 0.9rem; max-width: 25%;"><img src="/img/saint-francis-of-paola-and-martinello-the-lamb.jpg" alt="Engraving of St. Francis of Paola with his companion sheep, Martinello" style="width: 100%; height: auto; display: block;" loading="lazy"><figcaption style="text-align: center; font-size: 0.8rem;">Engraving of St. Francis of Paola with his companion sheep, Martinello</figcaption></figure>
 
-Founded in 1435 by the hermit [Saint Francis of Paola](http://www.sanfrancescodapaola.com/indexfra4.html) (who was named after and inspired by the earlier and more famous Saint Francis of Assisi), the Minims are distinguished from other [Mendicant orders](https://en.wikipedia.org/wiki/Mendicant_orders) by having a fourth vow, a *voto di perpetua quaresima*, a vow of perpetual lent, in addition to the customary three of poverty, chastity, and obedience.
+Founded in 1435 by the hermit [Saint Francis of Paola](http://www.sanfrancescodapaola.com/indexfra4.html) (who was named after and inspired by the earlier and more famous Saint Francis of Assisi), the Minims are distinguished from other [Mendicant orders](https://en.wikipedia.org/wiki/Mendicant_orders) by having a fourth vow, a *voto di perpetua quaresima*, a vow of perpetual Lent, in addition to the customary three of poverty, chastity, and obedience.
 
 To Francis, the fourth vow required a complete and lifelong abstention from consumption of meat, and anything derived from it, such as eggs, butter, cheese, milk, leather, and other similar items. These were also banned from the order's homes and cloisters[^1].
 
