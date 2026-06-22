@@ -9,16 +9,22 @@ outputs:
     - RSS
 
 disablePathToLower: true
-languageCode: "en-us"
-
 builddrafts: false
 enableRobotsTXT: true
+
+# Canadian locale setting (Metric, ISO 8601 dates)
+locale: "en-CA"
 
 permalinks:
   post: ":year/:month/:day/:slug"
   fixed:  ":slug/"
 
 theme: "lanyon-hugo"
+
+# 1. Security patch to fix the "access denied: text/html" error
+security:
+  allowContent:
+    - '.*'
 
 menu:
   main:
