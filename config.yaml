@@ -8,7 +8,7 @@ outputs:
     - HTML
     - RSS
 
-disablePathToLower: true
+# disablePathToLower: true
 builddrafts: false
 enableRobotsTXT: true
 
@@ -65,7 +65,7 @@ Params:
   url:              "https://sanfranciscan.org"
   images:
     - "img/og-image.png"
-  baseurl:          '/'
+#  baseurl:          '/'
   relme:            "https://sanfranciscan.org/@chema"
   DateForm:         "2006-01-02"
   StartYear:        "1995"
